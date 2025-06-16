@@ -2,7 +2,6 @@
 
 This repository contains a Terraform provider for the [Frontegg] user management
 platform.
-
 ## Requirements
 
 - [Terraform](https://www.terraform.io/downloads.html) >= 1.0.3
