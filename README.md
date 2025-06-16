@@ -10,7 +10,6 @@ platform.
   **pay attention to install platform compatible version**
 
 ## Using the provider
-
 See the Terraform Registry: <https://registry.terraform.io/providers/frontegg/frontegg/latest>.
 
 ## Importing existing resources
