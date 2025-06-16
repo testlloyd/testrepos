@@ -4,7 +4,6 @@ This repository contains a Terraform provider for the [Frontegg] user management
 platform.
 
 ## Requirements
-
 - [Terraform](https://www.terraform.io/downloads.html) >= 1.0.3
 - [Go](https://golang.org/doc/install) >= 1.20
   **pay attention to install platform compatible version**
